@@ -1,4 +1,9 @@
-# portfolio
+# OUYORNG KHEANG_e20211604_Assignment01
+Picture of the APP
+
+The app aim to show of and introduce about my skills and motivation of my and has a features to contact me deeplink to telegram and can view my CV within the app.
+
+![alt text](image.png)
 
 A new Flutter project.
 
